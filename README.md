@@ -1,6 +1,6 @@
 # cini
 
-## Introduction
+## Introduction ([中文](/README_zh.md))
 
 cini is a lightweight ini configuration file parsing library designed for convenient reading and modification of ini format configuration files in C language projects, avoiding the complexity of manual parsing.
 
