@@ -24,7 +24,7 @@
 // clang-format off
 
 // bool type
-# ifndef __c_plusplus__
+# ifndef __cplusplus
 #   include <stdbool.h>
 #   ifndef _Bool
 #       define _Bool int
